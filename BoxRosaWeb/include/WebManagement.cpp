@@ -29,10 +29,6 @@ long timeout = 2000;
 void datiRandom()
 {
   timeout = 10000;
-
-//  var1 = random(10, 20);
-//  var2 = random(1, 20) * 3.14159;
-//  var3 = random(0, 2);
 }
 
 void invioDati()
